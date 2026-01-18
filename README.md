@@ -1,7 +1,5 @@
 # 💫 About Me
 
-🎓 I'm an Information Systems student at the University of Haifa.<br>
-🧠 As part of my final project, I'm currently working on a Learning Management System (LMS) that uses analytics and ML to help teachers track student progress and improve learning.<br>
 💡 I enjoy solving problems and building practical solutions with technology.<br>
 🚀 I'm especially interested in machine learning, data analysis, and system design.<br>
 🤝 I like working on projects that bring real value and encourage creative thinking.<br>
